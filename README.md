@@ -62,6 +62,6 @@ Como trabajo futuro se propone ampliar el dataset y evaluar modelos más complej
 
 Los resultados obtenidos indican que el modelo de regresión lineal presenta un desempeño limitado, con errores de predicción elevados y un valor de R² cercano a cero.
 
-Esta situación se explica principalmente por el reducido tamaño del conjunto de datos utilizado, así como por la alta variabilidad de precios y la presencia de variables categóricas con pocas observaciones.
+Esta situación se explica principalmente por el reducido tamaño del conjunto de datos utilizado, así como por la alta variabilidad de precios y la presencia de variables categóricas con pocas observaciones. Esto tambien podemos observarlo en el grafico Scatter que demuestra una distrubucion homogenea todo el grafico.
 
 Como trabajo futuro, se propone ampliar el conjunto de datos y evaluar modelos más complejos para mejorar la capacidad predictiva.# Data_Science_I
